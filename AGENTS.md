@@ -4,7 +4,7 @@ Este archivo proporciona el contexto y los estándares del proyecto de backend p
 
 ## 1. Vista General y Arquitectura
 - **Proyecto:** Backend del Sistema Integral de Gestión de Proyectos de Investigación (SGPI) de la UNPA.
-- **Pila Tecnológica:** Java 25, Spring Boot 3 (Spring Data JPA, Spring Security), MySQL 8.
+- **Pila Tecnológica:** Java 21, Spring Boot 3 (Spring Data JPA, Spring Security), MySQL 8.
 - **Estilo Arquitectónico:** Clean Architecture y principios SOLID. Separación estricta de controladores, servicios, repositorios y entidades.
 
 ## 2. Base de Datos y Persistencia
