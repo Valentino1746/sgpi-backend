@@ -21,6 +21,6 @@ Este archivo proporciona el contexto y los estándares del proyecto de backend p
 - **Pruebas Unitarias:** Implementar pruebas JUnit robustas enfocadas en casos límite, estados nulos y condiciones de carrera.
 
 ## 5. Reglas de Git y Colaboración
-- **Ramas:** Crear ramas de características `feature/us-X-descripcion` que deriven de `develop`.
+- **Ramas:** Crear ramas de características `feature/epic-X-descripcion` (o `fix/...`) que deriven de `develop`. La planeación, ejecución y creación de Pull Requests se gestionan a nivel de Épica completa.
 - **Commits:** Mensajes bajo Conventional Commits (ej. `feat:`, `fix:`, `docs:`, `test:`).Commits atomicos
 - **PRs:** Todas las solicitudes de Pull Request deben apuntar a la rama `develop`. El agente `Pull Request Reviewer` evaluará los cambios con comentarios inline según severidad (`[CRITICAL]`, `[MAJOR]`, `[MINOR]`).
